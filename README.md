@@ -1,26 +1,39 @@
-livraria<img id="banner" src="banner.jpg">
+<!DOCTYPE html>
 
-<main>
-            <div class="principal">
-                <h2 class="titulo-centralizado">Sobre a Livraria</h2>
+<html>
+    <head>
+           <title>Livraria boa Leitura</title>
+    </head>
 
-                <p>Localizada no coração da cidade a <strong>Livraria</strong> traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.</p>
+    <body>
+      <h1>
+Livraria Boa Leitura
+    </h1>
+     <h2>
+        <p>Localizada no coração da cidade de curitiba a
+    </h2>
+    <p>
+        <strong>Livraria</strong> traz para a cidade o que há de melhor para o seu conhecimento. Fundada em 2010, a Livraria boa Leitura já é destaque na cidade e realiza venda de livros todo dia.
+    </p>
+    <p>
+    </p>
+    <p id="missao"><em>Nossa missão é: <strong>"Realizar conhecimento para todas as pessoas"</strong>.
+    </p>
+</em></p>
 
-                <p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
+<p>Oferecemos Livros de varios tipos que você esta procurando. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação a procura do livro que esteja procurando.</p>
 
-                <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
-            </div>
 
-            <div class="beneficios">
-                <h3 class="titulo-centralizado">Benefícios</h3>
+<div class="beneficios">
+<h3 class="titulo-centralizado">Benefícios</h3>
 
-                <ul>
-                    <li class="itens">Atendimento aos Clientes</li>
-                    <li class="itens">Espaço diferenciado</li>
-                    <li class="itens">Localização</li>
-                    <li class="itens">Profissionais Qualificados</li>
-                </ul>
+<ul>
+    <li class="itens">Livros de tudo tipo</li>
+    <li class="itens">Espaço para poder ler</li>
+    <li class="itens">Localização no coração da cidade de curitiba</li>
+    <li class="itens">Livros de qualidade</li>
+</ul>
+<img src="Livraria-Jaqueira.png">
 
-                <img src="beneficios.jpg" class="imagembeneficios">
-            </div>
-</main>
+    </body>
+</html>
